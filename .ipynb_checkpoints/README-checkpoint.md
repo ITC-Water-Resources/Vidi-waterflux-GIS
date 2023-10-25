@@ -1,10 +1,6 @@
 # Vidi-waterflux-GIS
 GIS datasets related to waterflux project, watershed boundaries etc.
 
-## common_borders
-The obtained common borders between neighboring basins will be used in the estimation of the water fluxes process.
-
-
 ## grdc_stations
 Consists of GRDC station list dataset https://portal.grdc.bafg.de/applications/public.html?publicuser=PublicUser#dataDownload/StationCatalogue
 
