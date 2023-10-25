@@ -2,7 +2,7 @@
 GIS datasets related to waterflux project, watershed boundaries etc.
 
 ## common_borders
-The obtained common borders between neighboring basins will be used to estimate water fluxes between the neighboring basins.
+The obtained common borders between neighboring basins will be used in the estimation of the water fluxes process.
 
 
 ## grdc_stations
