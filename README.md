@@ -22,3 +22,6 @@ A relatively simple notebook to create regions of interest and to export it to s
 
 ### read_gpkg_extract_total_bounds.ipynb
 This module reads a geopackage with three layers. For the layers HornOfAfrica and NorthSeaRegion, total bounds is extracted and exported as a `gpkg`.
+
+### Schrer IceSat-2 river surface slope IRIS
+ICESat-2 river surface slope (IRIS): A global reach-scale water surface slope dataset (Scherer et al., 2023)
