@@ -25,3 +25,7 @@ This module reads a geopackage with three layers. For the layers HornOfAfrica an
 
 ### Schrer IceSat-2 river surface slope IRIS
 ICESat-2 river surface slope (IRIS): A global reach-scale water surface slope dataset (Scherer et al., 2023)
+
+### Somalia (https://github.com/ITC-Water-Resources/Vidi-waterflux-GIS/tree/main/somalia)
+Consists of water level and river discharge data, and some auxilary info, for the Juba and Shabelle rivers. Downloaded from: https://snrfa.faoswalim.org/stations
+Double check terms and conditions, before use.
