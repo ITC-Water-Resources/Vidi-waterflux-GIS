@@ -29,3 +29,6 @@ ICESat-2 river surface slope (IRIS): A global reach-scale water surface slope da
 ### Somalia (https://github.com/ITC-Water-Resources/Vidi-waterflux-GIS/tree/main/somalia)
 Consists of water level and river discharge data, and some auxilary info, for the Juba and Shabelle rivers. Downloaded from: https://snrfa.faoswalim.org/stations
 Double check terms and conditions, before use.
+
+## Caravan dataset (Caravan - A global community dataset for large-sample hydrology)
+https://zenodo.org/records/7944025
